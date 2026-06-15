@@ -29,6 +29,7 @@ README SPORT TRACKER WINFORMS
 Структура проекта:
 Form1.cs - логика программы
 Program.cs - запуск приложения
+Program.Designer.cs - интерфейс
 Models - классы данных (Athlete, Training)
 Services - бизнес-логика (SportService)
 
