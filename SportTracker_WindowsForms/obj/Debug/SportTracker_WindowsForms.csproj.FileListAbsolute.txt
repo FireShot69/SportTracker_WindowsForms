@@ -1,0 +1,10 @@
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\obj\Debug\SportTracker_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\obj\Debug\SportTracker_WindowsForms.Properties.Resources.resources
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\obj\Debug\SportTracker_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\obj\Debug\SportTracker_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\bin\Debug\SportTracker_WindowsForms.exe.config
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\bin\Debug\SportTracker_WindowsForms.exe
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\bin\Debug\SportTracker_WindowsForms.pdb
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\obj\Debug\SportTracker_WindowsForms.exe
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\obj\Debug\SportTracker_WindowsForms.pdb
+C:\Users\Ученик\source\repos\SportTracker_WindowsForms\obj\Debug\SportTracker_WindowsForms.exe.config
